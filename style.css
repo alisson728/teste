@@ -11,10 +11,15 @@
 
 }
 .py-5{
-    margin-top: 20px;
+    margin-top: 3.04vh;
 }
 .card{
-    height: 76.10vh;
+    height:  53.27vh;
     background-color:#c7c7c7!important;
     
+}
+.tamanho{
+    height:38.05vh;
+    width: 30.44vh;
+    margin-left:  7.61vh;
 }
