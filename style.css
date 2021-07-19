@@ -1,0 +1,53 @@
+.cabeçalho{
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+}
+.carousel-item{
+    background-color: 	#c7c7c7;
+}
+.carrosel{
+    height: 45.66vh;
+    margin-top: 7.61vh;
+    padding: 4.56vh;
+    
+    
+    
+
+}
+.py-5{
+    margin-top:  3.04vh;
+}
+.card{
+    height:400px ;
+    width: 230px;
+
+   
+    background-color:#c7c7c7!important;
+    
+}
+.tamanho{
+    height:   250px;
+    width:   200px;
+    display: flex;
+    padding: 10px;
+}
+.navbar-nav{
+    margin-left: 80%;
+}
+.col{
+   margin: 0px;
+}
+.py-5{
+    background-color: rgb(0, 0, 0);
+   
+}
+.fw-light{
+    color: rgb(242, 196, 10);
+}
+.lead{
+    color: darkred;
+}
+.mb-0{
+    margin: 20px;
+    padding-top: 10px;
+}
