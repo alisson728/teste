@@ -56,3 +56,8 @@
     margin: 20px;
     padding-top: 10px;
 }
+@media(max-width: 600px) {
+    .camisa{
+        height: 150px;
+    }
+}
