@@ -1,3 +1,4 @@
+
 .cabeçalho{
     background-color: rgb(0, 0, 0);
     padding: 10px;
@@ -18,22 +19,26 @@
     margin-top:  3.04vh;
 }
 .card{
-    height:400px ;
-    width: 230px;
+    height:450px ;
+    width: 310px;
 
    
     background-color:#c7c7c7!important;
     
 }
 .tamanho{
-    height:   250px;
-    width:   200px;
+    height:   350px;
+    width:   300px;
     display: flex;
     padding: 10px;
 }
-.navbar-nav{
-    margin-left: 80%;
+.tamanho-duas{
+    height:   300px;
+    width:   315px;
+    display: flex;
+    padding: 10px;
 }
+
 .col{
    margin: 0px;
 }
@@ -42,7 +47,7 @@
    
 }
 .fw-light{
-    color: rgb(242, 196, 10);
+    color: #198754
 }
 .lead{
     color: darkred;
