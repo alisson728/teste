@@ -56,8 +56,16 @@
     margin: 20px;
     padding-top: 10px;
 }
-@media(max-width: 600px) {
-    .camisa{
-        height: 150px;
-    }
+.seta{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 30px;
+    right: 55px;
+}
+@-o-keyframes{
+    .seta{
+        top:40px;
+    };
+    animation-duration:4s;
 }
